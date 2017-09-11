@@ -1,0 +1,118 @@
+img.linkimg{
+	margin-bottom: 30px;
+	float: left;
+}
+
+.a{
+	margin-top: 40px;
+	margin-left: 30px;
+	float: left;
+}
+
+.homecontent{
+	width: 948px;
+}
+
+.linkcontent{
+	margin-left: 10px;
+	width: 300px;
+	float: left;
+
+	margin-left: auto;
+  	margin-right: auto;
+
+}
+
+input{
+  width: 20px;
+  margin-left: 20px; 
+  height: 30px; 
+  font-size: 15px;
+}
+
+.b{
+	margin-left: 50px;
+	margin-top: 40px;
+}
+
+.im8{
+	margin-left: 30px;
+}
+
+form.userform label{
+	width: 30%;
+}
+
+
+/* enter admin */
+.enter{
+	font-size: 40px;
+}
+
+/* enter delails */
+
+.enter_d{
+	font-size: 15px;
+	margin-left: 10px;
+	color: #4d4d4d;
+}
+
+/* enter d_box */
+
+form.userform input{
+	width: 60%;
+	height: 35px;
+	font-size: 20px;
+	color: black;
+}
+
+.button_d {
+  width: 96px;
+  height: 40px;
+  display: inline-block;
+  /* padding: 15px 25px; */
+  font-size: 25px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: #fff;
+  background-color: #336699;
+  border: none;
+  border-radius: 15px;
+  /* box-shadow: 0 9px #999; */
+}
+
+.button_d2:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+.chan_pass{
+	font-size: 18px;
+}
+
+.input{
+	background: #ffffff;
+	border: 0px;
+}
+
+.button_d_pass {
+  width: 300px;
+  height: 40px;
+  display: inline-block;
+  /* padding: 15px 25px; */
+  font-size: 25px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: #fff;
+  background-color: #336699;
+  border: none;
+  border-radius: 15px;
+  /* box-shadow: 0 9px #999; */
+}
+
+
+
+
